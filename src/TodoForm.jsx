@@ -30,7 +30,7 @@ class TodoForm extends Component {
       <form className="form" onSubmit={this.handleSubmit}>
         <div className="form-field">
           <label htmlFor="todo" className="form-label">
-            Enter A Task Name
+            Enter A Task
           </label>
           <input
             type="text"
